@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Ahire
 - 👀 I’m interested in Software Development and Network & Security
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently getting hands on MERN.
 - 💞️ I’m looking forward to work as a Software Engineer
 - 📫 Reach me at vaibhavahire123@gmail.com
 
